@@ -1,0 +1,6 @@
+datasets
+ipykernel
+jupyter
+notebook
+openai
+python-dotenv
